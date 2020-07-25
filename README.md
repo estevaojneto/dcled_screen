@@ -1,2 +1,2 @@
 # dcled_screen
-a small python controller for a programmable led screen I have. Requires 'dcled'
+a small bash script for a programmable led screen I have. Requires 'dcled'
